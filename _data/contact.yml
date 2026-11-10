@@ -24,7 +24,7 @@
   url:  "https://www.linkedin.com/in/panga-azazia"                  # Fill with your Linkedin homepage
 
 - type: huggingface
-  icon: "hf-icon"
+  icon: "fas fa-face-smile"
   url: "https://huggingface.co/Panga-Azazia"
 #
 # - type: stack-overflow
