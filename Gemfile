@@ -12,3 +12,12 @@ platforms :windows, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
+
+
+gem "jekyll"
+
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+end

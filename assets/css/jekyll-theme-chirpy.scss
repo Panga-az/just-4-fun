@@ -1,0 +1,14 @@
+---
+---
+
+@import "main";
+
+.hf-icon::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask: url("https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/huggingface.svg") no-repeat center / contain;
+  mask: url("https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/huggingface.svg") no-repeat center / contain;
+}
