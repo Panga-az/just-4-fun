@@ -25,7 +25,7 @@
 
 - type: huggingface
   icon: "fas fa-face-smile"
-  url: "https://huggingface.co/Panga-Azazia"
+  url: "https://huggingface.co/Panga-Azazia" 
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
